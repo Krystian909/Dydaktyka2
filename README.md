@@ -1,2 +1,1 @@
-# Dydaktyka2
 Dydaktyka
